@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Abhishekch20
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning react.js
-- 💞️ I’m looking to collaborate on frontend development 
+- 👋 Hi, I’m @Abhishekch20.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning backend development.
+- 💞️ I’m looking to collaborate on frontend development. 
 - 📫 abhishekchiluveru2004@gmail.com
 - 😄
 - ⚡ 
